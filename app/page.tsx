@@ -42,10 +42,10 @@ export default function Home() {
         <p className="mt-10 text-sm text-neutral-500">
           Email:{" "}
           <a
-            href="mailto:YOUR_EMAIL@example.com"
+            href="mailto:juannicolas.guerrero@vanderbilt.edu"
             className="underline"
           >
-            YOUR_EMAIL@example.com
+            juannicolas.guerrero@vanderbilt.edu
           </a>
         </p>
       </div>
